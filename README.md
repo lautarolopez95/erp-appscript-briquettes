@@ -34,5 +34,5 @@ Desarrollo de una solución ERP (Enterprise Resource Planning) totalmente a medi
 ## 📸 Galería
 *Capturas del ERP y Dashboards funcionando*
 
-![Panel de Control ERP](erp_elquebrachal.png)
+![Panel de Control ERP](ERP_elquebrachal.png)
 ![Dashboard seguimiento negocio](seguimiento_negocio.png)
